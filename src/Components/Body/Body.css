@@ -1,3 +1,7 @@
+
+
+
+
 .merc {
     background-image: url('https://www.ifood.com.br/static/images/groceries-landing-page/desktop-background.png');
     background-size: cover;
@@ -59,24 +63,24 @@
 
 .tag-itens {
     width: 600px;
-    height: auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
-    position: relative;
-    left: 35%;
-    top:2%;
-    transform: translateX(-50%, -50%);
+    margin-top: 20px;
+    margin-left: 670px;
+
+
+
+    
+
 }
 
 .item-wrapper {
     color: grey;
     border-radius: 16px;
-    border: grey solid 1px;
+    border: #f2f2f2 solid 1px;
     background: white;
     height: 35px;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin: 5px;
     cursor: pointer;
 }
